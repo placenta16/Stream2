@@ -1,0 +1,14 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Verde": "#ADF7B670",
+    "Amarelo": "#FFA63070",
+    "Vermelho": "#FD68466B"
+  },
+  "highlighterOrder": [
+    "Verde",
+    "Amarelo",
+    "Vermelho"
+  ]
+}
